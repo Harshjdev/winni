@@ -1,0 +1,49 @@
+*{
+    overflow-x: hidden;
+}
+.star{
+    width: 20%;
+    height: 20%;
+}
+.w{
+    color: rgb(0, 0, 0);
+    outline: 2px;
+}
+.rate{
+    width: max-content;
+    border-radius: 30%;
+}
+.navbar{
+    width: 100%;
+    height: 90px;
+}
+img .logo{
+    width: 10%;
+    height: 20px;
+
+}
+.search1{
+    padding-left:4rem;
+}
+.icon{
+    color: gray;
+    font-size: 30px;
+}
+.icon:hover{
+    color: rgb(165, 25, 49) !important;
+}
+.row{
+    overflow-x:hidden;
+}
+.gray{
+    background-color: #807474;
+}
+.list{
+    list-style-type:none; ;
+}
+.end{
+    border-right: 1px solid gray;
+}
+.icon1{
+    font-size: 30px;
+}
